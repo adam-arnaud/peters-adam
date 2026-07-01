@@ -131,13 +131,13 @@ body {
 .site-header {
   position: fixed;
   inset: 0 0 auto 0;
-  min-height: 82px;
+  min-height: 68px;
   z-index: 50;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 12px 6vw;
-  background: rgba(255, 253, 249, .86);
+  padding: 8px 5vw;
+  background: rgba(255, 253, 249, .90);
   backdrop-filter: blur(18px);
   border-bottom: 1px solid rgba(75,35,131,.08);
 }
@@ -232,13 +232,20 @@ body {
 .hero-content {
   position: relative;
   z-index: 3;
-  max-width: 930px;
+  width: min(760px, 90%);
+  margin: 0 auto;
   text-align: center;
-  padding: 42px;
-  border-radius: 34px;
-  background: rgba(255, 253, 249, .86);
-  backdrop-filter: blur(10px);
-  box-shadow: 0 30px 80px rgba(13, 27, 42, .24);
+
+  padding: 70px 65px;
+
+  border-radius: 36px;
+
+  background: rgba(255, 253, 249, 0.92);
+  backdrop-filter: blur(14px);
+
+  box-shadow:
+    0 30px 80px rgba(13, 27, 42, 0.22),
+    0 8px 30px rgba(75, 35, 131, 0.10);
 }
 
 .hero-logo {
