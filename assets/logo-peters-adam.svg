@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Peters & Adam</title>
+  <desc id="desc">Logo Peters & Adam avec maison, cœur et mains protectrices.</desc>
+  <defs>
+    <linearGradient id="purpleGradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8E6CCF"/>
+      <stop offset="45%" stop-color="#4B2383"/>
+      <stop offset="100%" stop-color="#261047"/>
+    </linearGradient>
+    <style>
+      .serif { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; letter-spacing: 2px; }
+      .sans { font-family: Arial, Helvetica, sans-serif; font-weight: 700; letter-spacing: 14px; }
+    </style>
+  </defs>
+
+  <!-- Arc protecteur -->
+  <path d="M217 244 C244 96 398 42 526 83 C622 114 676 194 685 287"
+        fill="none" stroke="url(#purpleGradient)" stroke-width="24" stroke-linecap="round"/>
+
+  <!-- Main gauche -->
+  <path d="M248 324
+           C184 297 142 276 132 224
+           C124 178 145 155 169 171
+           C188 184 190 222 203 246
+           C222 281 266 281 296 309
+           C318 330 318 366 291 388
+           C274 402 257 391 253 371
+           C250 353 262 338 248 324Z"
+        fill="url(#purpleGradient)"/>
+
+  <!-- Main droite -->
+  <path d="M652 324
+           C716 297 758 276 768 224
+           C776 178 755 155 731 171
+           C712 184 710 222 697 246
+           C678 281 634 281 604 309
+           C582 330 582 366 609 388
+           C626 402 643 391 647 371
+           C650 353 638 338 652 324Z"
+        fill="url(#purpleGradient)"/>
+
+  <!-- Base des mains -->
+  <path d="M326 400 C380 441 520 441 574 400"
+        fill="none" stroke="url(#purpleGradient)" stroke-width="26" stroke-linecap="round"/>
+
+  <!-- Maison -->
+  <path d="M278 236 L450 107 L622 236"
+        fill="none" stroke="#261047" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M579 201 V128 H633 V244"
+        fill="none" stroke="#261047" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Coeur -->
+  <path d="M450 322
+           C416 289 370 262 376 219
+           C381 184 423 174 450 207
+           C477 174 519 184 524 219
+           C530 262 484 289 450 322Z"
+        fill="#8E6CCF"/>
+
+  <!-- Étoiles -->
+  <path d="M682 139 L694 171 L726 183 L694 195 L682 227 L670 195 L638 183 L670 171 Z" fill="#7D55BE"/>
+  <path d="M736 89 L744 111 L766 119 L744 127 L736 149 L728 127 L706 119 L728 111 Z" fill="#7D55BE"/>
+  <path d="M746 181 L752 197 L768 203 L752 209 L746 225 L740 209 L724 203 L740 197 Z" fill="#7D55BE"/>
+
+  <!-- Nom -->
+  <text x="450" y="500" text-anchor="middle" class="serif" font-size="72" fill="#261047">PETERS &amp; ADAM</text>
+
+  <!-- Trait gauche / droit + Services -->
+  <line x1="245" y1="542" x2="344" y2="542" stroke="#8E6CCF" stroke-width="3"/>
+  <text x="450" y="556" text-anchor="middle" class="sans" font-size="36" fill="#8E6CCF">SERVICES</text>
+  <line x1="556" y1="542" x2="655" y2="542" stroke="#8E6CCF" stroke-width="3"/>
+</svg>

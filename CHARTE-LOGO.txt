@@ -1,0 +1,19 @@
+PETERS & ADAM — Logo vectorisé V1
+
+Fichiers inclus :
+- assets/logo-peters-adam.svg : logo principal vectoriel
+- assets/logo-peters-adam-blanc.svg : version blanche pour fond foncé
+- assets/icone-peters-adam.svg : icône seule pour favicon, réseaux sociaux, boutons
+- logo original PNG conservé comme référence si présent
+
+Couleurs principales :
+- Violet profond : #4B2383
+- Violet clair : #8E6CCF
+- Bleu nuit : #261047
+- Blanc cassé / fond : #F8F4EF
+- Doré discret : #C9A46A
+
+Note :
+Cette vectorisation est une première version propre inspirée du logo validé.
+Elle est utilisable sur le site et comme base pour cartes, textile ou véhicule.
+Avant impression professionnelle, il faudra idéalement faire valider le SVG par l'imprimeur.

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Icône Peters & Adam</title>
+  <desc id="desc">Icône maison, cœur et mains protectrices.</desc>
+  <defs>
+    <linearGradient id="purpleGradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8E6CCF"/>
+      <stop offset="45%" stop-color="#4B2383"/>
+      <stop offset="100%" stop-color="#261047"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M92 238 C116 90 274 47 377 110 C435 146 461 201 464 258"
+        fill="none" stroke="url(#purpleGradient)" stroke-width="22" stroke-linecap="round"/>
+
+  <path d="M121 294 C66 267 43 231 55 188 C64 157 90 160 101 190 C116 233 143 238 174 266 C200 290 184 341 149 336 C128 333 132 309 121 294Z"
+        fill="url(#purpleGradient)"/>
+
+  <path d="M391 294 C446 267 469 231 457 188 C448 157 422 160 411 190 C396 233 369 238 338 266 C312 290 328 341 363 336 C384 333 380 309 391 294Z"
+        fill="url(#purpleGradient)"/>
+
+  <path d="M185 350 C224 382 288 382 327 350"
+        fill="none" stroke="url(#purpleGradient)" stroke-width="22" stroke-linecap="round"/>
+
+  <path d="M158 225 L256 145 L354 225"
+        fill="none" stroke="#261047" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M327 204 V157 H362 V232"
+        fill="none" stroke="#261047" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M256 307 C226 278 197 256 202 225 C207 196 238 194 256 217 C274 194 305 196 310 225 C315 256 286 278 256 307Z"
+        fill="#8E6CCF"/>
+
+  <path d="M414 110 L424 137 L451 147 L424 157 L414 184 L404 157 L377 147 L404 137 Z" fill="#7D55BE"/>
+  <path d="M459 62 L466 81 L485 88 L466 95 L459 114 L452 95 L433 88 L452 81 Z" fill="#7D55BE"/>
+</svg>
